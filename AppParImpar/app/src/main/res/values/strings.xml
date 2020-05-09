@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppParImpar</string>
+    <string name="btn_calcular">Mostrar Par/Impar</string>
+    <string name="btn_limpiar">limpiar</string>
+    <string name="btn_salir">salir</string>
+    <string name="hint_numero">Numero</string>
+</resources>
